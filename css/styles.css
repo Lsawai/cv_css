@@ -104,15 +104,20 @@ p
 .bottom-cloud
 {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 30%;
 }
 .top-cloud
 {
   position: absolute;
   top:50px;
-  right:300px;
+  right:20%;
 
+}
+.mountain
+{
+  margin:auto;
+  width: 60%;
 }
 
 .mountian
